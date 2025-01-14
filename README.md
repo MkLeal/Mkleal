@@ -16,7 +16,7 @@
 Estudante de dados desde 2024, caminhando nessa longa estrada de tecnologia.
 
 - ❤ Estudante de Ciencias de Dados
-- 💙 Estudante da Alura
+- 💙 Aluno da Alura
 - 👩‍💻 Aprendendo algo sobre Python, SQL e JAVA
 
 <div>
