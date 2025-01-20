@@ -1,6 +1,6 @@
 <img src = "banner.gif.gif" width = "325px" align = "right">
 
-#  Ola Dev, bom ter você por aqui!
+#  Olá Dev, bom ter você por aqui!
   <div id="badges">
   <a href="https://instagram.com/instadomaiconleal" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/maiconleal-dados/">
