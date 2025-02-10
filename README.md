@@ -14,7 +14,7 @@
   </a>
 </div>
 
-Estudante de dados com foco em Python, SQL e BI, caminhando nessa longa estrada de tecnologia.
+Estudante de dados com foco em Python, SQL e BI, dando os primeiros passos nessa longa estrada de tecnologia.
 
 - ❤ Estudante de Ciencias de Dados
 - 💙 Aluno da Alura
